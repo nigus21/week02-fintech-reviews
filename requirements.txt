@@ -1,0 +1,5 @@
+pandas>=1.4
+numpy
+google-play-scraper>=1.0.5
+tqdm
+python-dateutil
